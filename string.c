@@ -3,7 +3,7 @@
  * _strcmpdir - compares strings to find dir.
  *
  * @s1: string.
- * @s2: string.
+ * @s2: string..
  *
  * Return: if match and any other number if otherwise.
  **/
