@@ -2,7 +2,7 @@
 
 /**
 <<<<<<< HEAD
- * _strlen - returns the length of a string
+ * _strlen - returns the length of a string.
  * @s: the string whose length to check
 =======
  * _strcmpdir - compares strings to find dir.
