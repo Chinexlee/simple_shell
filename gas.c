@@ -3,7 +3,7 @@
 /**
  * find_command - finds command to execute in path routes.
  *
- * @command: first position of getline input.
+ * @command: first position of getline Input.
  *
  * Return: string of folder for command to be executed.
  **/
