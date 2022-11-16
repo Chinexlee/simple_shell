@@ -1,8 +1,15 @@
 #include "shell.h"
 
 /**
+<<<<<<< HEAD
  * _strlen - returns the length of a string
  * @s: the string whose length to check
+=======
+ * _strcmpdir - compares strings to find dir.
+ *
+ * @s1: string.
+ * @s2: string..
+>>>>>>> 1c1edc671edd715c21589e2362a2de5312ad8b0e
  *
  * Return: integer length of string
  */
